@@ -14,6 +14,7 @@
  /home/kaktus/sloeber/arduinoPlugin/packages/arduino/hardware/avr/1.6.15/cores/arduino/HardwareSerial.h \
  ../Maxbotix.h ../RxSoftwareSerial.h \
  /home/kaktus/sloeber/arduinoPlugin/packages/arduino/hardware/avr/1.6.15/cores/arduino/Stream.h \
+ ../NewPing.h \
  /home/kaktus/sloeber/arduinoPlugin/packages/arduino/hardware/avr/1.6.15/libraries/Wire/src/Wire.h \
  ../maxsonar_serial.ino
 
@@ -48,6 +49,8 @@
 ../RxSoftwareSerial.h:
 
 /home/kaktus/sloeber/arduinoPlugin/packages/arduino/hardware/avr/1.6.15/cores/arduino/Stream.h:
+
+../NewPing.h:
 
 /home/kaktus/sloeber/arduinoPlugin/packages/arduino/hardware/avr/1.6.15/libraries/Wire/src/Wire.h:
 

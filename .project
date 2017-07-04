@@ -42,6 +42,11 @@
 			<location>/home/kaktus/sloeber/arduinoPlugin/packages/arduino/hardware/avr/1.6.15/variants/eightanaloginputs</location>
 		</link>
 		<link>
+			<name>libraries/NewPing</name>
+			<type>2</type>
+			<location>/home/kaktus/sloeber/workspace_ardu/libraries/NewPing</location>
+		</link>
+		<link>
 			<name>libraries/TinyWireS</name>
 			<type>2</type>
 			<location>/home/kaktus/sloeber/workspace_ardu/libraries/TinyWireS</location>

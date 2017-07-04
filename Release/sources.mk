@@ -37,6 +37,7 @@ CPP_DEPS :=
 SUBDIRS := \
 . \
 core/core \
+libraries/NewPing \
 libraries/Wire/src \
 libraries/Wire/src/utility \
 
